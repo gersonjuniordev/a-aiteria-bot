@@ -31,7 +31,7 @@ DEPENDÊNCIAS
 INSTALAÇÃO
 ----------
 1. Clone o repositório:
-   git clone https://github.com/gersonjuniordev/acaiteria-bot.git
+   git clone https://github.com/gersonjuniordev/a-aiteria-bot.git
 
 2. Entre na pasta do projeto:
    cd acaiteria-bot

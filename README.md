@@ -101,7 +101,7 @@ SUPORTE
 -------
 Para suporte ou dúvidas:
 - Abra uma issue no GitHub
-- Entre em contato via WhatsApp: (XX) XXXX-XXXX
+- Entre em contato via WhatsApp: (31) 9 7246-6905
 
 CONTRIBUIÇÃO
 -----------
